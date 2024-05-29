@@ -1,6 +1,18 @@
-title: Ravi Shankar Kushwaha
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+title: <p align="center"> Ravi Shankar Kushwaha </p>
+logo: /assets/img/Ravi.JPG
+
+description: 
+  <p align="center">
+  <a herf="pdf/resume.pdf">Resume</a> | 
+  <a herf="https://www.linkedin.com/in/ravi-shankar-k-45a77224/">LinkdIn</a> | 
+  <a herf="https://github.com/RavishankarDuMCA10">GitHub</a>
+
+  <br>
+  I'm working on Data Science, Machine learning & NLP related problems.
+  Also handling end-to-end iOS Projects.
+  Working in Software Industry for 11 years.
+  <br>
+  </p>
+# show_downloads: true
+# google_analytics:
 theme: jekyll-theme-minimal
