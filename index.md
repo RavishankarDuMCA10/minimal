@@ -13,6 +13,7 @@ Lending Club case study explores how a peer-to-peer lending platform can leverag
 <center><img src="/assets/img/landing_club_case_study.png"/></center>
 
 
+
 ---
 layout: default
 ---
