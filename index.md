@@ -10,7 +10,7 @@ Lending Club case study explores how a peer-to-peer lending platform can leverag
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/RavishankarDuMCA10/LendingClubCaseStudy)
 
-<center><img src="images/landing_club_case_study"/></center>
+<center><img src="images/landing_club_case_study.png"/></center>
 
 
 ---
