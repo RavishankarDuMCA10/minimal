@@ -3,7 +3,6 @@ logo: /assets/img/RaviShankar.JPG
 
 description: 
   <p align="center">
-  [!(https://www.linkedin.com/in/ravi-shankar-k-45a77224/)]
   <a herf="pdf/resume.pdf">Resume</a> | 
   <a herf="https://www.linkedin.com/in/ravi-shankar-k-45a77224/">LinkdIn</a> | 
   <a herf="https://github.com/RavishankarDuMCA10">GitHub</a>
@@ -14,6 +13,6 @@ description:
   Working in Software Industry for 11 years.
   <br>
   </p>
-# show_downloads: true
-# google_analytics:
+
+  
 theme: jekyll-theme-minimal
